@@ -1,0 +1,12 @@
+h1, h2 {
+    background-color: black;
+    color: white; 
+  }
+
+  strong h2 {
+    margin: 10px;
+  }
+
+  em, strong {
+    display: block;
+  }
